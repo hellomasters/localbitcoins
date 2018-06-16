@@ -9,7 +9,7 @@
 打开如下地址得到支持支付宝、网银付款的比特币卖家：
 https://localbitcoins.com/instant-bitcoins/?action=buy&country_code=CN&amount=&currency=CNY&place_country=CN&online_provider=ALIPAY&find-offers=%E6%90%9C%E7%B4%A2
 
-并选择靠前的其中一个选择买入。
+并选择不需要身份验证的购买。
 
 ![](https://github.com/hellomasters/localbitcoins/blob/master/2.%E6%90%9C%E7%B4%A2%E4%B8%AD%E5%9B%BD%E5%8D%96%E5%AE%B6.png?raw=true)
 
