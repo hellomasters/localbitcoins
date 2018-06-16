@@ -14,18 +14,18 @@ https://localbitcoins.com/instant-bitcoins/?action=buy&country_code=CN&amount=&c
 ![](https://github.com/hellomasters/localbitcoins/blob/master/2.%E6%90%9C%E7%B4%A2%E4%B8%AD%E5%9B%BD%E5%8D%96%E5%AE%B6.png?raw=true)
 
 
-#####3.购买
+###### 3.购买
 填写购买的金额，点击“发送请求交易”。
 
 ![](https://github.com/hellomasters/localbitcoins/blob/master/3.%E8%B4%AD%E4%B9%B0.png?raw=true)
 
-#####4.付款
+###### 4.付款
 发起交易后，询问卖家的收款账号，再通过支付宝、网银等方式转账付款。
 
-#####5.交易成功
+###### 5.交易成功
 付款成功后，系统会将对应金额的比特币从卖家账户拨到你的账户。
 
-#####6.比特币转账
+###### 6.比特币转账
 https://localbitcoins.com/accounts/wallet/
 点击进入“钱包”，填写**接受比特币的地址**、比特币个数，转账成功。
 
